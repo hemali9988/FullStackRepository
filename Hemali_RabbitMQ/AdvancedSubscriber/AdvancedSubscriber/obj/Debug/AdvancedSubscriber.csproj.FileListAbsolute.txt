@@ -1,0 +1,12 @@
+D:\Hemali_RabbitMQ\AdvancedSubscriber\AdvancedSubscriber\bin\Debug\AdvancedSubscriber.exe.config
+D:\Hemali_RabbitMQ\AdvancedSubscriber\AdvancedSubscriber\bin\Debug\AdvancedSubscriber.exe
+D:\Hemali_RabbitMQ\AdvancedSubscriber\AdvancedSubscriber\bin\Debug\AdvancedSubscriber.pdb
+D:\Hemali_RabbitMQ\AdvancedSubscriber\AdvancedSubscriber\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\Hemali_RabbitMQ\AdvancedSubscriber\AdvancedSubscriber\bin\Debug\RabbitMQ.Client.dll
+D:\Hemali_RabbitMQ\AdvancedSubscriber\AdvancedSubscriber\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\Hemali_RabbitMQ\AdvancedSubscriber\AdvancedSubscriber\bin\Debug\RabbitMQ.Client.xml
+D:\Hemali_RabbitMQ\AdvancedSubscriber\AdvancedSubscriber\obj\Debug\AdvancedSubscriber.csprojAssemblyReference.cache
+D:\Hemali_RabbitMQ\AdvancedSubscriber\AdvancedSubscriber\obj\Debug\AdvancedSubscriber.csproj.CoreCompileInputs.cache
+D:\Hemali_RabbitMQ\AdvancedSubscriber\AdvancedSubscriber\obj\Debug\AdvancedSubscriber.csproj.CopyComplete
+D:\Hemali_RabbitMQ\AdvancedSubscriber\AdvancedSubscriber\obj\Debug\AdvancedSubscriber.exe
+D:\Hemali_RabbitMQ\AdvancedSubscriber\AdvancedSubscriber\obj\Debug\AdvancedSubscriber.pdb

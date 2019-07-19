@@ -1,0 +1,12 @@
+D:\Hemali_RabbitMQ\TopicPublisher\TopicPublisher\obj\Debug\TopicPublisher.csprojAssemblyReference.cache
+D:\Hemali_RabbitMQ\TopicPublisher\TopicPublisher\obj\Debug\TopicPublisher.csproj.CoreCompileInputs.cache
+D:\Hemali_RabbitMQ\TopicPublisher\TopicPublisher\bin\Debug\TopicPublisher.exe.config
+D:\Hemali_RabbitMQ\TopicPublisher\TopicPublisher\bin\Debug\TopicPublisher.exe
+D:\Hemali_RabbitMQ\TopicPublisher\TopicPublisher\bin\Debug\TopicPublisher.pdb
+D:\Hemali_RabbitMQ\TopicPublisher\TopicPublisher\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\Hemali_RabbitMQ\TopicPublisher\TopicPublisher\bin\Debug\RabbitMQ.Client.dll
+D:\Hemali_RabbitMQ\TopicPublisher\TopicPublisher\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\Hemali_RabbitMQ\TopicPublisher\TopicPublisher\bin\Debug\RabbitMQ.Client.xml
+D:\Hemali_RabbitMQ\TopicPublisher\TopicPublisher\obj\Debug\TopicPublisher.csproj.CopyComplete
+D:\Hemali_RabbitMQ\TopicPublisher\TopicPublisher\obj\Debug\TopicPublisher.exe
+D:\Hemali_RabbitMQ\TopicPublisher\TopicPublisher\obj\Debug\TopicPublisher.pdb

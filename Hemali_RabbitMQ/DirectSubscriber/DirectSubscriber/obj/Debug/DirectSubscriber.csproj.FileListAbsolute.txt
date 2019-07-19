@@ -1,0 +1,12 @@
+D:\Hemali_RabbitMQ\DirectSubscriber\DirectSubscriber\bin\Debug\DirectSubscriber.exe.config
+D:\Hemali_RabbitMQ\DirectSubscriber\DirectSubscriber\bin\Debug\DirectSubscriber.exe
+D:\Hemali_RabbitMQ\DirectSubscriber\DirectSubscriber\bin\Debug\DirectSubscriber.pdb
+D:\Hemali_RabbitMQ\DirectSubscriber\DirectSubscriber\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\Hemali_RabbitMQ\DirectSubscriber\DirectSubscriber\bin\Debug\RabbitMQ.Client.dll
+D:\Hemali_RabbitMQ\DirectSubscriber\DirectSubscriber\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\Hemali_RabbitMQ\DirectSubscriber\DirectSubscriber\bin\Debug\RabbitMQ.Client.xml
+D:\Hemali_RabbitMQ\DirectSubscriber\DirectSubscriber\obj\Debug\DirectSubscriber.csprojAssemblyReference.cache
+D:\Hemali_RabbitMQ\DirectSubscriber\DirectSubscriber\obj\Debug\DirectSubscriber.csproj.CoreCompileInputs.cache
+D:\Hemali_RabbitMQ\DirectSubscriber\DirectSubscriber\obj\Debug\DirectSubscriber.csproj.CopyComplete
+D:\Hemali_RabbitMQ\DirectSubscriber\DirectSubscriber\obj\Debug\DirectSubscriber.exe
+D:\Hemali_RabbitMQ\DirectSubscriber\DirectSubscriber\obj\Debug\DirectSubscriber.pdb
