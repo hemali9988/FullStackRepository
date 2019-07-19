@@ -1,0 +1,11 @@
+D:\HemaliDotNetCoreApplication\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.deps.json
+D:\HemaliDotNetCoreApplication\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.runtimeconfig.json
+D:\HemaliDotNetCoreApplication\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.runtimeconfig.dev.json
+D:\HemaliDotNetCoreApplication\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.dll
+D:\HemaliDotNetCoreApplication\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.pdb
+D:\HemaliDotNetCoreApplication\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.csprojAssemblyReference.cache
+D:\HemaliDotNetCoreApplication\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\HemaliDotNetCoreApplication\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.AssemblyInfoInputs.cache
+D:\HemaliDotNetCoreApplication\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.AssemblyInfo.cs
+D:\HemaliDotNetCoreApplication\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.dll
+D:\HemaliDotNetCoreApplication\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.pdb

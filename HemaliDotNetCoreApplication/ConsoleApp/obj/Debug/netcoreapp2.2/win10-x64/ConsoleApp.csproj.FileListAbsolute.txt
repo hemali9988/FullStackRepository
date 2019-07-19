@@ -1,0 +1,14 @@
+D:\HemaliDotNetCoreApplication\ConsoleApp\bin\Debug\netcoreapp2.2\win10-x64\hostpolicy.dll
+D:\HemaliDotNetCoreApplication\ConsoleApp\bin\Debug\netcoreapp2.2\win10-x64\hostfxr.dll
+D:\HemaliDotNetCoreApplication\ConsoleApp\bin\Debug\netcoreapp2.2\win10-x64\ConsoleApp.exe
+D:\HemaliDotNetCoreApplication\ConsoleApp\bin\Debug\netcoreapp2.2\win10-x64\ConsoleApp.deps.json
+D:\HemaliDotNetCoreApplication\ConsoleApp\bin\Debug\netcoreapp2.2\win10-x64\ConsoleApp.runtimeconfig.json
+D:\HemaliDotNetCoreApplication\ConsoleApp\bin\Debug\netcoreapp2.2\win10-x64\ConsoleApp.runtimeconfig.dev.json
+D:\HemaliDotNetCoreApplication\ConsoleApp\bin\Debug\netcoreapp2.2\win10-x64\ConsoleApp.dll
+D:\HemaliDotNetCoreApplication\ConsoleApp\bin\Debug\netcoreapp2.2\win10-x64\ConsoleApp.pdb
+D:\HemaliDotNetCoreApplication\ConsoleApp\obj\Debug\netcoreapp2.2\win10-x64\ConsoleApp.csprojAssemblyReference.cache
+D:\HemaliDotNetCoreApplication\ConsoleApp\obj\Debug\netcoreapp2.2\win10-x64\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\HemaliDotNetCoreApplication\ConsoleApp\obj\Debug\netcoreapp2.2\win10-x64\ConsoleApp.AssemblyInfoInputs.cache
+D:\HemaliDotNetCoreApplication\ConsoleApp\obj\Debug\netcoreapp2.2\win10-x64\ConsoleApp.AssemblyInfo.cs
+D:\HemaliDotNetCoreApplication\ConsoleApp\obj\Debug\netcoreapp2.2\win10-x64\ConsoleApp.dll
+D:\HemaliDotNetCoreApplication\ConsoleApp\obj\Debug\netcoreapp2.2\win10-x64\ConsoleApp.pdb

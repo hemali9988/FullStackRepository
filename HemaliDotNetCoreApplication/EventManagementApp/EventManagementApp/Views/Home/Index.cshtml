@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <mailaddress mail-to="sonusathyadas@hotmail.com">Send mails to Sonu</mailaddress>
+    <mailaddress mail-to="ajay@gmail.com">Send mails to Ajay</mailaddress>
+    <mailaddress></mailaddress>
+    <mailaddress mail-to="" />
+    @*<cache expires-after="TimeSpan.FromSeconds(15)" vary-by-query="id">
+        <p>Current Time: @ViewBag.Date </p>
+    </cache>
+
+    <cache expires-on="new DateTime(2019,8,25,12,0,0)">
+        <p>Current Time2: @ViewBag.Date </p>
+    </cache>*@
+
+
+    <p>@ViewBag.message</p>
+</div>

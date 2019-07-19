@@ -1,0 +1,14 @@
+D:\HemaliDotNetCoreApplication\MiddlewareDemo\MiddlewareDemo\MiddlewareDemo\bin\Debug\netcoreapp2.2\MiddlewareDemo.deps.json
+D:\HemaliDotNetCoreApplication\MiddlewareDemo\MiddlewareDemo\MiddlewareDemo\bin\Debug\netcoreapp2.2\MiddlewareDemo.runtimeconfig.json
+D:\HemaliDotNetCoreApplication\MiddlewareDemo\MiddlewareDemo\MiddlewareDemo\bin\Debug\netcoreapp2.2\MiddlewareDemo.runtimeconfig.dev.json
+D:\HemaliDotNetCoreApplication\MiddlewareDemo\MiddlewareDemo\MiddlewareDemo\bin\Debug\netcoreapp2.2\MiddlewareDemo.dll
+D:\HemaliDotNetCoreApplication\MiddlewareDemo\MiddlewareDemo\MiddlewareDemo\bin\Debug\netcoreapp2.2\MiddlewareDemo.pdb
+D:\HemaliDotNetCoreApplication\MiddlewareDemo\MiddlewareDemo\MiddlewareDemo\obj\Debug\netcoreapp2.2\MiddlewareDemo.csprojAssemblyReference.cache
+D:\HemaliDotNetCoreApplication\MiddlewareDemo\MiddlewareDemo\MiddlewareDemo\obj\Debug\netcoreapp2.2\MiddlewareDemo.csproj.CoreCompileInputs.cache
+D:\HemaliDotNetCoreApplication\MiddlewareDemo\MiddlewareDemo\MiddlewareDemo\obj\Debug\netcoreapp2.2\MiddlewareDemo.RazorAssemblyInfo.cache
+D:\HemaliDotNetCoreApplication\MiddlewareDemo\MiddlewareDemo\MiddlewareDemo\obj\Debug\netcoreapp2.2\MiddlewareDemo.RazorAssemblyInfo.cs
+D:\HemaliDotNetCoreApplication\MiddlewareDemo\MiddlewareDemo\MiddlewareDemo\obj\Debug\netcoreapp2.2\MiddlewareDemo.AssemblyInfoInputs.cache
+D:\HemaliDotNetCoreApplication\MiddlewareDemo\MiddlewareDemo\MiddlewareDemo\obj\Debug\netcoreapp2.2\MiddlewareDemo.AssemblyInfo.cs
+D:\HemaliDotNetCoreApplication\MiddlewareDemo\MiddlewareDemo\MiddlewareDemo\obj\Debug\netcoreapp2.2\MiddlewareDemo.RazorTargetAssemblyInfo.cache
+D:\HemaliDotNetCoreApplication\MiddlewareDemo\MiddlewareDemo\MiddlewareDemo\obj\Debug\netcoreapp2.2\MiddlewareDemo.dll
+D:\HemaliDotNetCoreApplication\MiddlewareDemo\MiddlewareDemo\MiddlewareDemo\obj\Debug\netcoreapp2.2\MiddlewareDemo.pdb
