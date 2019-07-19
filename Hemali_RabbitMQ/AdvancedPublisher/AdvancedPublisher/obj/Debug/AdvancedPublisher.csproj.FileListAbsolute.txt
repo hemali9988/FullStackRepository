@@ -1,0 +1,12 @@
+D:\Hemali_RabbitMQ\AdvancedPublisher\AdvancedPublisher\bin\Debug\AdvancedPublisher.exe.config
+D:\Hemali_RabbitMQ\AdvancedPublisher\AdvancedPublisher\bin\Debug\AdvancedPublisher.exe
+D:\Hemali_RabbitMQ\AdvancedPublisher\AdvancedPublisher\bin\Debug\AdvancedPublisher.pdb
+D:\Hemali_RabbitMQ\AdvancedPublisher\AdvancedPublisher\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\Hemali_RabbitMQ\AdvancedPublisher\AdvancedPublisher\bin\Debug\RabbitMQ.Client.dll
+D:\Hemali_RabbitMQ\AdvancedPublisher\AdvancedPublisher\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\Hemali_RabbitMQ\AdvancedPublisher\AdvancedPublisher\bin\Debug\RabbitMQ.Client.xml
+D:\Hemali_RabbitMQ\AdvancedPublisher\AdvancedPublisher\obj\Debug\AdvancedPublisher.csprojAssemblyReference.cache
+D:\Hemali_RabbitMQ\AdvancedPublisher\AdvancedPublisher\obj\Debug\AdvancedPublisher.csproj.CoreCompileInputs.cache
+D:\Hemali_RabbitMQ\AdvancedPublisher\AdvancedPublisher\obj\Debug\AdvancedPublisher.csproj.CopyComplete
+D:\Hemali_RabbitMQ\AdvancedPublisher\AdvancedPublisher\obj\Debug\AdvancedPublisher.exe
+D:\Hemali_RabbitMQ\AdvancedPublisher\AdvancedPublisher\obj\Debug\AdvancedPublisher.pdb
