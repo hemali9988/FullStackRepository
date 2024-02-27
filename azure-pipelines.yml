@@ -10,9 +10,11 @@ pool:
   vmImage: ubuntu-latest
 
 steps:
-- task:ArchiveFiles@2
+Settings
+- task : ArchiveFiles@2
 inputs:
-rootFolderOrFile:'$(build.sourcesDirectory)'
-includeRootFolder:false
+  rootFolderOrFile:'$(build.sourcesDirectory)'
+  includeRootFolder:false
 
--task:PublishBuildArifacts@1
+Settings
+- task: PublishBuildArifacts@1
