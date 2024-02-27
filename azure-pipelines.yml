@@ -13,8 +13,8 @@ steps:
 Settings
 - task : ArchiveFiles@2
 inputs:
-  rootFolderOrFile:'$(build.sourcesDirectory)'
-  includeRootFolder:false
+  rootFolderOrFile: '$(build.sourcesDirectory)'
+  includeRootFolder: false
 
 Settings
 - task: PublishBuildArifacts@1
